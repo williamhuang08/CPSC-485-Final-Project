@@ -4,6 +4,9 @@ This repository details the EM training algorithm used to learn temporally-abstr
 
 [Notion Page](https://determined-bathroom-72a.notion.site/William-Huang-CPSC-4850-Final-Project-2ca099a878b58035a9a4f8b0a526ec3e?source=copy_link)
 
+<img width="482" height="480" alt="Screenshot 2025-12-17 at 2 48 18 PM" src="https://github.com/user-attachments/assets/ffff71f7-d47a-4ea3-b9bd-24b5a02e97d8" />
+
+
 ## Quick Start
 First, start and activate a Conda environment.
 
